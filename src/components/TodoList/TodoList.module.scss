@@ -1,0 +1,26 @@
+.container {
+  width: 100%;
+  margin-bottom: 60px;
+}
+
+.titleList {
+  font-size: 60px;
+  line-height: 70px;
+  font-weight: normal;
+  margin-top: 0;
+}
+
+.wrapperList {
+  border: 1px solid #111111;
+  border-radius: 15px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  padding: 40px;
+
+  ul {
+    padding: 0;
+    margin: 0;
+  }
+}
+
